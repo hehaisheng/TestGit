@@ -11,11 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     
         //其他人
-        //我编写的
-        //12
-        //13同一天1243345545
-        //你好
-        //不管他aaa
-        //nui 
+        
     }
 }
