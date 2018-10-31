@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //我编写的
         //12
         //13同一天1243345545
-        //你是谁
-
+        //你好
     }
 }
